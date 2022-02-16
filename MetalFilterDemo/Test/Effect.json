@@ -1,0 +1,31 @@
+{
+    "fps": 24,
+    "part": [{
+        "r_distance": -0.1,
+        "g_distance": 0.0,
+        "b_distance": -0.2,
+        
+        "move_fps_start": 0,
+        "move_fps_end": 8,
+        "move_fps_static_start": 9,
+        "move_fps_static_end": 24,
+        "minY": 0.2,
+        "maxY": 0.3
+    },
+    {
+        "r_distance": 0.1,
+        "b_distance": 0.2,
+        
+        "move_fps_start": 0,
+        "move_fps_end": 8,
+        "move_fps_static_start": 9,
+        "move_fps_static_end": 24,
+
+        "minY": 0.5,
+        "maxY": 0.55
+    }
+    ],
+    "filter": "filter.jpg",
+    "control": 1,
+    "method": "1"
+}

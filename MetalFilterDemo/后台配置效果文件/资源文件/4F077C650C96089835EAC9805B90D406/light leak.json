@@ -1,0 +1,7 @@
+{
+"image":"light_leak.png",
+"filter":"filter.jpg",
+"control":"1",
+"mixmode":"OverlayBlend",
+"method":"0_1"
+}

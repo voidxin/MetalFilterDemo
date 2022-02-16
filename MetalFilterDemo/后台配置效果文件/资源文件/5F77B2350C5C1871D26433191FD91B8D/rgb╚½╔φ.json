@@ -1,0 +1,13 @@
+{
+	"fps": 24,
+	"part": [{
+			"r_distance": 0.02,
+			"g_distance": 0.03,
+                                             
+                                                 "minY":0,
+                                                  "maxY":1                   
+		}
+	],
+	"filter": "filter.jpg",
+	"method": "2"
+}

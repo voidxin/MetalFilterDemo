@@ -1,0 +1,8 @@
+{
+"header":{ "title":"Header Title", "image":"head.png", "text":"Header text" },
+"content": [
+{ "title":"Step 01", "image":"step01.png", "text":"Just after the upgra111" },
+{ "title":"Step 02", "image":"step02.png", "text":"Just after the upgra222" },
+{ "title":"Step 03", "image":"step03.png", "text":"Just after the upgra333" }
+]
+}
